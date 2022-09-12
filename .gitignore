@@ -5,6 +5,9 @@ protected/runtime/*
 protected/data/*.db
 themes/classic/views/
 
+# ENV Config
+.env
+
 # yii console commands
 /yii
 /yii_test
